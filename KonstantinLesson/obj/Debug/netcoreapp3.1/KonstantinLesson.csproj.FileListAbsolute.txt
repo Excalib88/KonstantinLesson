@@ -1,0 +1,13 @@
+D:\Projects\KonstantinLesson\KonstantinLesson\bin\Debug\netcoreapp3.1\KonstantinLesson.exe
+D:\Projects\KonstantinLesson\KonstantinLesson\bin\Debug\netcoreapp3.1\KonstantinLesson.deps.json
+D:\Projects\KonstantinLesson\KonstantinLesson\bin\Debug\netcoreapp3.1\KonstantinLesson.runtimeconfig.json
+D:\Projects\KonstantinLesson\KonstantinLesson\bin\Debug\netcoreapp3.1\KonstantinLesson.runtimeconfig.dev.json
+D:\Projects\KonstantinLesson\KonstantinLesson\bin\Debug\netcoreapp3.1\KonstantinLesson.dll
+D:\Projects\KonstantinLesson\KonstantinLesson\bin\Debug\netcoreapp3.1\KonstantinLesson.pdb
+D:\Projects\KonstantinLesson\KonstantinLesson\obj\Debug\netcoreapp3.1\KonstantinLesson.csprojAssemblyReference.cache
+D:\Projects\KonstantinLesson\KonstantinLesson\obj\Debug\netcoreapp3.1\KonstantinLesson.AssemblyInfoInputs.cache
+D:\Projects\KonstantinLesson\KonstantinLesson\obj\Debug\netcoreapp3.1\KonstantinLesson.AssemblyInfo.cs
+D:\Projects\KonstantinLesson\KonstantinLesson\obj\Debug\netcoreapp3.1\KonstantinLesson.csproj.CoreCompileInputs.cache
+D:\Projects\KonstantinLesson\KonstantinLesson\obj\Debug\netcoreapp3.1\KonstantinLesson.dll
+D:\Projects\KonstantinLesson\KonstantinLesson\obj\Debug\netcoreapp3.1\KonstantinLesson.pdb
+D:\Projects\KonstantinLesson\KonstantinLesson\obj\Debug\netcoreapp3.1\KonstantinLesson.genruntimeconfig.cache

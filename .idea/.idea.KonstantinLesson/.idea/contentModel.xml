@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\rave9\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\rave9\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_KonstantinLesson.486336628.00" t="ExcludeRecursive" />
+    <e p="C:\Users\rave9\AppData\Roaming\JetBrains\Rider2020.3\scratches" t="IncludeRecursive" />
+    <e p="D:\Projects\KonstantinLesson" t="IncludeFlat">
+      <e p="KonstantinLesson" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="KonstantinLesson.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="KonstantinLesson.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="KonstantinLesson.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
